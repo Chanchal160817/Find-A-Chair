@@ -1,0 +1,15 @@
+{
+  "name": "find-a-chair",
+  "version": "1.0.0",
+  "description": "So you've found a meeting room - phew! You arrive there ready to present, and find that someone has taken one or more of the chairs!! \r You need to find some quick.... check all the other meeting rooms to see if all of the chairs are in use.\r Your meeting room can take up to 8 chairs. need will tell you how many have been taken. You need to find that many.",
+  "main": "assignment.js",
+  "scripts": {
+    "start": "nodemon assignment.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

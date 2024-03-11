@@ -18,3 +18,9 @@ no chairs free in room 0, take 1 from room 1, take 3 from room 2. no need to con
 ```
 
 If you need no chairs, return `1`. If there aren't enough spare chairs available, return `0`.
+
+
+<!-- Start server -->
+
+command for add dependency :- npm i
+command for start server :- npm start 
